@@ -1,8 +1,9 @@
-# 🧸 StreakBuddy -your personal hype squad
+# 🧸 StreakBuddy 
+                  -your personal hype squad
 
 **"What if your phone became your buddy and helped you build habits, just the way you want?"**
 
-StreakBuddy isn't just another habit tracker. It's a **cute, cozy, and motivating companion** that lives on your phone. Build streaks, earn badges, customize your very own chibi avatar, and let your buddy cheer you on with personality-driven expressions and messages.
+StreakBuddy isn't just another habit tracker. It's a cute, cozy, and motivating companion that lives on your phone. Build streaks, earn badges, customize your very own chibi avatar, and let your buddy cheer you on with personality-driven expressions and messages.
 
 > 🚧 **Ongoing project** — Google Sign-in is still being worked on while the core app experience continues to improve.
 
@@ -11,7 +12,7 @@ StreakBuddy isn't just another habit tracker. It's a **cute, cozy, and motivatin
 ## ✨ Why it's special
 
 - **Your buddy, your rules** — Customize skin, hair, outfit, and more. Every buddy feels unique.
-- **Personality quiz** — Your buddy isn't just a static avatar. Answer a few questions and they'll become your personal **Hype Beast**, **Chill Viber**, **Sassy Bestie**, or **Cozy Cheerleader** — each with their own expressions, messages, and attitude.
+- **Personality quiz** — Your buddy isn't just a static avatar. Answer a few questions and they'll become your personal Hype Beast, Chill Viber, Sassy Bestie, or Cozy Cheerleader — each with their own expressions, messages, and attitude.
 - **Streaks that motivate** — Check in daily, watch your progress bar grow, and celebrate milestones with confetti and haptic feedback. Freeze a streak when life gets in the way (we get it).
 - **Stats & Badges** — Unlock achievements as you go. First streak? 7-day wonder? There's a badge for that.
 - **Dark & Light modes** — Warm, earthy coffee-shop vibes in dark mode; soft cream and linen in light mode. Both equally cozy.
