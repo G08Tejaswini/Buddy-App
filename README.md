@@ -1,13 +1,11 @@
-# Buddy-App
-A cozy habit and streak tracking app built with React Native.
-
-# 🧸 StreakBuddy — your personal hype squad
+# 🧸 StreakBuddy 
+your personal hype squad
 
 **"What if your phone became your buddy and helped you build habits, just the way you want?"**
 
 StreakBuddy isn't just another habit tracker. It's a **cute, cozy, and motivating companion** that lives on your phone. Build streaks, earn badges, customize your very own chibi avatar, and let your buddy cheer you on with personality-driven expressions and messages.
 
-> 🚧 **Ongoing project** — Google Sign-in is still being wrestled into submission. But the rest? Pretty darn polished.
+> 🚧 **Ongoing project** — Google Sign-in is still being worked on while the core app experience continues to improve.
 
 ---
 
