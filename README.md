@@ -1,5 +1,5 @@
 # 🧸 StreakBuddy 
-                  -your personal hype squad
+-your personal hype squad
 
 **"What if your phone became your buddy and helped you build habits, just the way you want?"**
 
