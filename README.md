@@ -1,5 +1,4 @@
-# 🧸 StreakBuddy  
-
+# 🧸 StreakBuddy
 
 **"What if your phone became your buddy and helped you build habits, just the way you want?"**
 
@@ -22,8 +21,12 @@ StreakBuddy isn't just another habit tracker. It's a cute, cozy, and motivating 
 
 ## 🖼️ What it looks like
 
-*(screenshots coming soon.)*
+<img src="./screenshots/home.jpeg" width="250"/>
+<img src="./screenshots/customization.jpeg" width="250"/>
+<img src="./screenshots/streaks.jpeg" width="250"/>
 
+<img src="./screenshots/stats.jpeg" width="250"/>
+<img src="./screenshots/buddy.jpeg" width="250"/>
 ---
 
 ## 🛠️ Built with
