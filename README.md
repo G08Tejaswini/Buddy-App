@@ -21,12 +21,12 @@ StreakBuddy isn't just another habit tracker. It's a cute, cozy, and motivating 
 
 ## 🖼️ What it looks like
 
-<img src="./screenshots/home.jpeg" width="250"/>
-<img src="./screenshots/customization.jpeg" width="250"/>
-<img src="./screenshots/streaks.jpeg" width="250"/>
+<img src="./screenshots/Home_page.jpeg" width="250"/>
+<img src="./screenshots/Customization.jpeg" width="250"/>
+<img src="./screenshots/Stats_page.jpeg" width="250"/>
 
-<img src="./screenshots/stats.jpeg" width="250"/>
-<img src="./screenshots/buddy.jpeg" width="250"/>
+<img src="./screenshots/Confetti.jpeg" width="250"/>
+<img src="./screenshots/Quiz.jpeg" width="250"/>
 ---
 
 ## 🛠️ Built with
