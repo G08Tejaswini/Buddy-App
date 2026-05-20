@@ -1,50 +1,65 @@
-# Welcome to your Expo app 👋
+# 🧸 StreakBuddy  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+**"What if your phone became your buddy and helped you build habits, just the way you want?"**
 
-1. Install dependencies
+StreakBuddy isn't just another habit tracker. It's a cute, cozy, and motivating companion that lives on your phone. Build streaks, earn badges, customize your very own chibi avatar, and let your buddy cheer you on with personality-driven expressions and messages.
 
-   ```bash
-   npm install
-   ```
+> 🚧 **Ongoing project** — Core features are working, and the app is continuously evolving with new personalities, accessories, and social features.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## ✨ Why it's special
 
-In the output, you'll find options to open the app in a
+- **Your buddy, your rules** — Customize skin, hair, outfit, and more. Every buddy feels unique.
+- **Personality quiz** — Your buddy isn't just a static avatar. Answer a few questions and they'll become your personal Hype Beast, Chill Viber, Sassy Bestie, or Cozy Cheerleader — each with their own expressions, messages, and attitude.
+- **Streaks that motivate** — Check in daily, watch your progress bar grow, and celebrate milestones with confetti and haptic feedback. Freeze a streak when life gets in the way (we get it).
+- **Stats & Badges** — Unlock achievements as you go. First streak? 7-day wonder? There's a badge for that.
+- **Dark & Light modes** — Warm, earthy coffee-shop vibes in dark mode; soft cream and linen in light mode. Both equally cozy.
+- **Google Sign-In support** — Secure authentication and cloud syncing through Firebase.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🖼️ What it looks like
 
-## Get a fresh project
+*(screenshots coming soon.)*
 
-When you're ready, run:
+---
+
+## 🛠️ Built with
+
+- **React Native (Expo)** — cross-platform from the start
+- **Firebase** — cloud save and authentication
+- **Google Cloud OAuth 2.0** — authentication integration
+- **expo-auth-session** — bridging Expo and Google auth
+- **react-native-svg** — for drawing the cute buddy
+- **AsyncStorage** — local persistence when offline
+- **expo-av** — sound effects and audio feedback
+- **expo-haptics** — haptic interactions
+
+---
+
+## 🚧 What's next?
+
+- [ ] More buddy personalities & accessories
+- [ ] Friends & social features — share habits and cheer each other on
+- [ ] Streak history calendar view
+- [ ] Widgets & notifications to keep you on track
+- [ ] More animations and interactive buddy reactions
+
+---
+
+## 🤍 Why I built this
+
+I wanted a habit tracker that felt like a **friend**, not a chore. Something warm, minimal, and genuinely fun to open every day. StreakBuddy is my attempt at that — and it's still growing.
+
+If you've ever wished your phone would hype you up, this is for you.
+
+---
+
+## ⚙️ Running the App
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
